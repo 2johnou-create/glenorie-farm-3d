@@ -1,22 +1,35 @@
 # Glenorie Farm — 3D café concept
 
-Interactive spatial concept from the revised interior plan and shed drawings.
-
 **Public viewer:** https://2johnou-create.github.io/glenorie-farm-3d/
+
+## Revision 02 — updated P6 interior, 4 October 2026
+
+- One 3 m indoor broadleaf feature tree in a rendered planter.
+- A 3 m feature wall continuing from the curved counter, with the same concrete-style material on the wall, counter top and fascia.
+- Sliding-glass toilet entrance retained within the feature wall.
+- Four removable farm-product display tables around the tree.
+- 24 movable workshop chairs, with tables arranged to clear the planter and retained posts.
+- New Interior features viewpoint and a feature layer toggle.
+
+The tree height includes its planter. Species, exact positions and wall-junction details are concept interpretations of the revised drawing.
+
+## Downloads
+
+- [Full updated 3D model (GLB)](glenorie-farm-concept-02.glb)
+- [Updated review package (ZIP)](glenorie-farm-concept-02.zip)
+- [Model notes and assumptions](MODEL-NOTES.md)
+
+The original concept-01 download URLs also serve the latest model for link continuity.
 
 ## Explore
 
-Rotate, zoom and pan the building. Choose a cutaway, exterior, plan, entrance, counter or roastery view. Toggle the roof and structural frame, adjust the wall cut height, choose a finish study, and switch between 24 workshop chairs and a cleared event layout.
-
-- [Full 3D model (GLB)](glenorie-farm-concept-01.glb)
-- [Review package (ZIP)](glenorie-farm-concept-01.zip)
-- [Model notes and assumptions](MODEL-NOTES.md)
+Rotate, zoom and pan the building. Choose a cutaway, exterior, plan, entrance, counter, roastery or interior-features view. Toggle the roof and structural frame, adjust the wall cut height, select a finish study, and switch between 24 workshop chairs and a cleared event layout. The tree and feature wall remain full height in cutaway views and stay in place when furniture is cleared.
 
 The self-contained viewer requires JavaScript and WebGL. It has no analytics, account system or external runtime dependencies.
 
 ## Design basis
 
-Commercial footprint: 15 × 14.5 m. Kitchen: 4 × 6.5 m. Toilet block: 6 × 4 m. Roastery: 5 × 4 m. Structural columns are retained. Room fixtures, openings and finishes are indicative. Consult the model notes for unresolved drawing details.
+The updated New Design v2_P6 sheet supplements the earlier New Design v2_P1 plan set and The Shed Company A.05–A.09 drawings. Commercial footprint: 15 × 14.5 m. Kitchen: 4 × 6.5 m. Toilet block: 6 × 4 m. Roastery: 5 × 4 m. Structural columns are retained. Fixtures, openings and finishes are indicative. See the model notes for unresolved details.
 
 ## Hosting
 
