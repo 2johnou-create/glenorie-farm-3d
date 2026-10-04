@@ -2,6 +2,16 @@
 
 **Public viewer:** https://2johnou-create.github.io/glenorie-farm-3d/
 
+**Rendered illustrations:** https://2johnou-create.github.io/glenorie-farm-3d/rendered-illustrations.html
+
+## Rendered illustrations — 5 October 2026
+
+Five photorealistic concept illustrations show the shed corner and the model's saved Entrance, Counter and Roastery angles. The fifth image shows the Entrance with all movable tables, chairs and product displays cleared while the counter, feature wall and indoor tree remain.
+
+The illustrations use the revision 02 layout and a chosen clear 3 pm October afternoon. The flat white ceiling, skylights and suspended timber are conceptual additions to the photographs. The 3D model and plan remain the authority for the 24-seat arrangement, dimensions and geometry. Roasting equipment is illustrative.
+
+Open an image to enlarge it or download its WebP file. Each illustration links back to a corresponding saved 3D view; the cleared image also selects the cleared furniture layout.
+
 ## Revision 02 — updated P6 interior, 4 October 2026
 
 - One 3 m indoor broadleaf feature tree in a rendered planter.
